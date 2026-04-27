@@ -1,1 +1,3 @@
-# word-ladder-solver
+# Word Ladder Solver
+
+This project is a Word Ladder solver built using C++. The program changes one word into another by changing one letter at a time. Each word in the sequence must be a valid word from a given list. I implemented this project using C++ along with data structures such as queues and applied a breadth-first search algorithm to find the shortest path. I also used file input and output to read and process word lists efficiently. During development, I debugged logic errors and tested multiple cases to ensure correctness. This project helped me improve my understanding of algorithms, data structures, and problem solving.
